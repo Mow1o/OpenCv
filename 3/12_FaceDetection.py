@@ -49,7 +49,7 @@ net = cv2.dnn.readNetFromCaffe("deploy.prototxt","res10_300x300_ssd_iter_140000_
 in_width = 300
 in_height = 300
 mean = [104, 117, 123]
-conf_threshold = 0.7
+conf_threshold = 1
 
 while cv2.waitKey(1) != 27:
     has_frame, frame = source.read()
