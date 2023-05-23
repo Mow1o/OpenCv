@@ -1,4 +1,4 @@
-"# face-recognition"
+OpenCV
 
 
 1. Add photos and videos folders

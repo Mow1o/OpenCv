@@ -11,4 +11,5 @@ def changeRes(width, height):
     #only works for live videos
     capture.set(3, width)
     capture.set(4, height)
+    
 
