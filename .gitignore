@@ -4,3 +4,11 @@
 env
 env/
 env/*
+
+videos/*
+videos/
+videos
+
+photos/*
+photos/
+photos
